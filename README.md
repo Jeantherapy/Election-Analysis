@@ -1,13 +1,13 @@
 # Election-Analysis
 ## Election overview
-* A Colorado Board of Elections has requested to complete the election audit of a recent local congressional election. Below is list of questions to be answered
+ A Colorado Board of Elections has requested to complete the election audit of a recent local congressional election. The overview gives a comprehensive summary of the election results, highlighting the county with the highest turnout and the candidate who secured the most votes. Below is list of questions to be answered.
 
-* * 1 Calculate the total number of votes cast.
-* * 2 Get a complete list of candidates who received votes.
-* * 3 Calculatae the total number of votes each candidate received.
-* * 4 Calculate the total number of votes each candidate received.
-* * 5 Calculate the percentage of votes each candidate won.
-* * 6 Determine the winner of the election based on popular vote.
+* 1 Calculate the total number of votes cast.
+* 2 Get a complete list of candidates who received votes.
+* 3 Calculatae the total number of votes each candidate received.
+* 4 Calculate the total number of votes each candidate received.
+* 5 Calculate the percentage of votes each candidate won.
+* 6 Determine the winner of the election based on popular vote.
 ## Resources
   * Data Source: A csv file, election_results.csv
   * Software: python and VScode
